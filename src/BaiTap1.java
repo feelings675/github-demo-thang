@@ -18,5 +18,5 @@ public class BaiTap1 {
 		
 		luuSoNhap(scan, listSo);
 	}
-}
+}hahahaha
 hahahahahahahahahaha
