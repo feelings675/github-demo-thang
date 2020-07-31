@@ -19,4 +19,4 @@ public class BaiTap1 {
 		luuSoNhap(scan, listSo);
 	}
 }
-		
+hahahahahahahahahaha
