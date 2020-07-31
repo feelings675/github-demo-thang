@@ -18,5 +18,5 @@ public class BaiTap1 {
 		
 		luuSoNhap(scan, listSo);
 	}
-}hahahaha
+}hahahaha A Thang Dep Trai vl 
 hahahahahahahahahaha
